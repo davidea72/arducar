@@ -21,3 +21,5 @@ l' intento è quello di realizzare una macchinina comandata da un app sul telefo
  Per debuggare sono stato costretto ad utilizzare il portatile collegato in bluetooth alla macchinina con un emulatore terminale quale minicom. 
  per facilitare il debug , le varie parti di debug sono attivabili e disattivabili a runtime , cosi' come anche i parametri K del pid sono modificabili a runtime con step di 0.5 
  
+ 
+ Il file Giulia.aia è il progetto da importare su app inventor per creare e/o modificare l' app android creata da Giulia
